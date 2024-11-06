@@ -5,7 +5,7 @@ The Telemedicine Service platform provides remote healthcare services, allowing 
 
 
 ## API References
-
+base api = localhost:5000/api/v1
 This section outlines the available routes for the Telemedicine Service API.
 
 ### User Routes
